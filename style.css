@@ -1,0 +1,75 @@
+*{
+        text-align: center;   
+}
+.instaimage{
+    margin: 35px;
+    width: 45%;
+}
+hr{
+    width: 90px;
+    height: 0px;
+}
+.underline{
+    display: flex;
+    align-items: center;
+
+}
+main{
+    border: 0.1px solid grey;
+    width: 30%;
+    margin-left: 35%;
+    margin-bottom: 34px;
+}
+main .box{
+    padding: 7px 8px;
+    width: 75%;
+    text-align: start;
+}
+.facebook{
+    color:rgb(2, 113, 172);
+}
+.facebook i{
+    margin-right: 7px;
+    font-size: 20px;
+}
+.signup{
+    text-decoration: none;
+    color: rgb(2, 113, 172);
+}
+button{
+    padding: 7px 110px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: rgb(2, 113, 172);
+}
+.second-container{
+    border: 0.5px solid grey;
+    padding: 12px 0px;
+    width: 30%;
+     margin-left: 35%;
+}
+.wrapper img{
+    width: 120px;
+}
+.wrapperP{
+    align-items: center;
+}
+.forlinks a{
+    color: grey;
+    text-decoration: none;
+    margin-left: 8px;
+    /* margin-bottom: 60px; */
+}
+.optionstag{
+    display: flex;
+    margin-left: 40%;
+    color: grey;
+}
+.optionstag select{
+    border: none;
+    color: grey;
+    margin-right: 15px;
+    font-size: 15px;
+}
